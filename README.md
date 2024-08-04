@@ -54,6 +54,7 @@ These functions are synced by the script via pings, if you use them
 - sounds:replaceSound(soundID,replacement,range)
 
 ## LivingEntity API
+- livingEntity:getHandItem()
 - livingEntity:getRightItem()
 - livingEntity:getLeftItem()
 
